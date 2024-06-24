@@ -1,3 +1,11 @@
+data.txt
+GAI.pdf
+*.log
+owners.xml
+ownersInput.xml
+pdfResult.pdf
+*.DC_Store
+
 # Compiled class file
 *.class
 
